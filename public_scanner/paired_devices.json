@@ -1,0 +1,12 @@
+[
+    {
+        "parameter": "scanner",
+        "deviceId": "f58f83283b2aef921e716ce31dd9a04f3cedea997e0a612737e0ba92415f4cfc",
+        "label": "2E-WCFHD (1224:2a25)"
+    },
+    {
+        "parameter": "ac207",
+        "deviceId": "e6d90294a19aa04edc99c2c557fd6d50238c2c75409c9f611664fe1efeec32f7",
+        "label": "HD WebCam (0bda:57f3)"
+    }
+]
