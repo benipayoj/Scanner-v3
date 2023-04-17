@@ -82,9 +82,9 @@
   <div class="container-fluid row">
     <div class="col-md-4 d-flex align-items-center justify-content-center position-relative p-4" style="background:#065280;min-height:100vh">
       <div class=" text-center fs-3 text-light p-4 position-fixed top-0 left-0" >
-        <h3 class="fw-bold p-2">COMPUTER BASED FACULTY MONITORING SYSTEM FOR QUEZON CITY UNIVERSITY</h3>
+        <h3 class="fw-bold p-2">Web-based Faculty Weekly Accomplishment Report for Quezon City Universit</h3>
         <div class="container">
-          <img src="../public/qcu-logo-2019-1@2x.png" class="m-4" width="200" height="200" class="logo" alt="">
+          <img src="new ui/public/qcu-logo-2019-1@2x.png" class="m-4" width="200" height="200" class="logo" alt="">
           <hr class="px-4 border-4 rounded-2">
         </div>
         <h3>Good Life Starts Here!</h3>
